@@ -1,4 +1,4 @@
-# Simple script to sell items illegal or not (whatever) 
+# Simple script to sell items illegal or not (whatever) nothing to fancy
 
 # Dependencies
 
