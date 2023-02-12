@@ -1,3 +1,5 @@
+# Simple script to sell items illegal or not (whatever) 
+
 # Dependencies
 
 - qbcore
