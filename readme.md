@@ -1,3 +1,6 @@
+# Replaced with https://github.com/Kevin-Scripts/kevin-itemtraders
+
+
 # Simple script to sell items illegal or not (whatever) nothing to fancy
 
 # Dependencies
